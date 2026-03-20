@@ -1,0 +1,2 @@
+# DeepLabv3-for-Brain-Tumor-Segmentation-A-Comparative-Study-of-Adam-and-SGD-Optimization-Algorithms
+This DeepLabv3+ project segments brain tumors in MRI scans. Using atrous convolutions and ASPP, it captures multi-scale context to define boundaries. Adam outperformed SGD with a 0.7837 Dice score. Results show hyperparameter tuning reduced false positives by 82.7%, ensuring high clinical sensitivity
